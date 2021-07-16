@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+안녕하세요!
+코딩처음 배워봅니다. 열심히 개발해보겠습니다!
 <!--
 **doondoon1994/doondoon1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
