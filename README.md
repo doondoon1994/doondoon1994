@@ -3,7 +3,7 @@
 안녕하세요!
 **코딩처음** 배워봅니다.
 **열심히 개발**해보겠습니다!
-배우는 언어 : ![logo-python](https://user-images.githubusercontent.com/87457090/126071746-6e867f79-bbea-4c6d-a0f8-a32bef0b5985.png)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 
 <!--
