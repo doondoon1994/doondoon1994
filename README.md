@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello world 👋
 
 안녕하세요!
 **코딩처음** 배워봅니다.
 **열심히 개발**해보겠습니다!
 
-`what i learned`
+`I’m currently learning...`
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
